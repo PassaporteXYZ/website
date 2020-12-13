@@ -14,6 +14,7 @@ const COLORS = {
     DARK: "#222222",
     DARKER: "#111111",
     BLACK: "#000000",
+    BLUE: "#0054F6",
 };
 
 export {

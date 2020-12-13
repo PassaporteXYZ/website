@@ -20,7 +20,7 @@ class NotFoundPage extends React.PureComponent {
                 flexDirection: "column",
                 justifyContent: "center",
                 alignItems: "center",
-                backgroundColor: COLORS.BLACK,
+                backgroundColor: COLORS.BLUE,
                 color: COLORS.WHITE,
                 textAlign: "center",
             }}>

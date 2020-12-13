@@ -21,18 +21,18 @@ const SocialLink: React.FunctionComponent<ISocialLinkProps> = (props) => (
 
 const SocialLinks: React.FunctionComponent = () => (
     <div>
-        <SocialLink link={{ title: "GitHub", href: "https://github.com/PrismLang" }}>
+        <SocialLink link={{ title: "GitHub", href: "https://github.com/Passaportexyz" }}>
             <FaGithub />
         </SocialLink>
-        <SocialLink link={{ title: "Twitter", href: "https://twitter.com/PrismLang" }}>
+        <SocialLink link={{ title: "Twitter", href: "https://twitter.com/codingsh" }}>
             <FaTwitter />
         </SocialLink>
-        <SocialLink link={{ title: "Reddit", href: "https://reddit.com/r/PrismLang" }}>
-            <FaReddit />
-        </SocialLink>
-        <SocialLink link={{ title: "StackOverflow", href: "https://stackoverflow.com/questions/tagged/prismlang" }}>
-            <FaStackOverflow />
-        </SocialLink>
+        // <SocialLink link={{ title: "Reddit", href: "https://reddit.com/r/Passporte" }}>
+        //     <FaReddit />
+        // </SocialLink>
+        // <SocialLink link={{ title: "StackOverflow", href: "https://stackoverflow.com/questions/tagged/prismlang" }}>
+        //     <FaStackOverflow />
+        // </SocialLink>
     </div>
 );
 
@@ -62,17 +62,17 @@ const MetaFooter: React.FunctionComponent = () => (
         fontSize: ".8em",
     }}>
         <div>
-            Coded with ❤ &amp; ☕ by <a href="https://traction.one" target="__blank">Traction</a>
+            Coded with ❤ &amp; ☕ by <a href="https://twitter.com/codingsh" target="__blank">Codingsh</a>
         </div>
         <div>
-            &copy; Sankarsan Kampa
+            &copy; PASSAPORTE
         </div>
     </div>
 );
 
 const Footer: React.FunctionComponent = () => (
     <footer css={{
-        backgroundColor: COLORS.BLACK,
+        backgroundColor: COLORS.BLUE,
         color: COLORS.WHITE,
     }}>
         <FooterLinks />

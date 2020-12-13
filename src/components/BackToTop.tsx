@@ -16,7 +16,7 @@ const BackToTop: React.FunctionComponent = () => (
             alignItems: "center",
             justifyContent: "center",
             borderRadius: 3,
-            backgroundColor: "black",
+            backgroundColor: "blue",
             boxShadow: "0 5px 20px -10px rgba(0, 0, 0, .5)",
             cursor: "pointer",
             transition: "opacity .125s ease-out, filter .125s ease-out, transform .125s ease-out",

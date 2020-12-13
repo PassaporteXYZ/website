@@ -30,7 +30,7 @@ const HeaderLogo: React.FunctionComponent = () => (
                     fontSize: "1.2em",
                     lineBreak: "none",
                     letterSpacing: 5,
-                }}>Prism</div>
+                }}>Passporte</div>
               </Link>
         }
     </div>
@@ -76,7 +76,7 @@ const Header: React.FunctionComponent = () => (
         justifyContent: "space-between",
         alignItems: "center",
         padding: "1rem 3rem",
-        backgroundColor: COLORS.BLACK,
+        backgroundColor: COLORS.BLUE,
     }}>
         <HeaderLogo />
         <HeaderLinks links={ headerLinks } />
