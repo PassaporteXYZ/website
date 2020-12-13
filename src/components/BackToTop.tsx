@@ -3,6 +3,7 @@ import React from "react";
 import isBrowser from "../utils/isBrowser";
 
 import arrow from "../data/arrow.png";
+import { COLORS } from "../utils/constants";
 
 const BackToTop: React.FunctionComponent = () => (
     <div
@@ -16,7 +17,7 @@ const BackToTop: React.FunctionComponent = () => (
             alignItems: "center",
             justifyContent: "center",
             borderRadius: 3,
-            backgroundColor: "blue",
+            backgroundColor: COLORS.BLUE,
             boxShadow: "0 5px 20px -10px rgba(0, 0, 0, .5)",
             cursor: "pointer",
             transition: "opacity .125s ease-out, filter .125s ease-out, transform .125s ease-out",

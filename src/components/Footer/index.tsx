@@ -27,12 +27,6 @@ const SocialLinks: React.FunctionComponent = () => (
         <SocialLink link={{ title: "Twitter", href: "https://twitter.com/codingsh" }}>
             <FaTwitter />
         </SocialLink>
-        // <SocialLink link={{ title: "Reddit", href: "https://reddit.com/r/Passporte" }}>
-        //     <FaReddit />
-        // </SocialLink>
-        // <SocialLink link={{ title: "StackOverflow", href: "https://stackoverflow.com/questions/tagged/prismlang" }}>
-        //     <FaStackOverflow />
-        // </SocialLink>
     </div>
 );
 
@@ -44,7 +38,7 @@ const FooterLinks: React.FunctionComponent = () => (
         alignItems: "center",
         flexWrap: "wrap-reverse",
         color: COLORS.GREY,
-        backgroundColor: COLORS.DARK,
+        backgroundColor: COLORS.BLUE,
         fontSize: ".8em",
     }}>
         <div></div>
@@ -58,7 +52,7 @@ const MetaFooter: React.FunctionComponent = () => (
         display: "flex",
         flexWrap: "wrap",
         justifyContent: "space-between",
-        color: COLORS.GREY,
+        color: COLORS.WHITE,
         fontSize: ".8em",
     }}>
         <div>

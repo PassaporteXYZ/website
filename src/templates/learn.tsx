@@ -21,7 +21,7 @@ export default (props: any) => (
             },
             "pre": {
                 padding: "20px 30px",
-                backgroundColor: COLORS.DARK,
+                backgroundColor: COLORS.BLUE,
                 color: COLORS.LIGHT,
                 overflowX: "auto",
                 borderRadius: 2,
