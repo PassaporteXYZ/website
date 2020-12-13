@@ -22,24 +22,24 @@ export default (props: IHTMLProps) => {
         />
         <meta
           name="keywords"
-          content="prism,programming,language,prismlang,lang,development,source,code,repl"
+          content="PASSAPORTE,access, gitcoin, nft, panvala,pass,codingsh,blockchain, ethereum"
         />
 
         <meta name="generator" content="Humanoid" />
-        <meta name="author:name" content="Sankarsan Kampa" />
-        <meta name="author:alias" content="Traction" />
-        <meta name="author:username" content="k3rn31p4nic" />
+        <meta name="author:name" content="codingsh" />
+        <meta name="author:alias" content="Passaporte" />
+        <meta name="author:username" content="codingsh" />
 
-        <meta property="og:site_name" content="Prism Lang" />
-        <meta property="og:url" content="https://prism.traction.one" />
+        <meta property="og:site_name" content="PASSAPORTE is NFT Pass for Blockchains" />
+        <meta property="og:url" content="https://passaporte.xyz" />
         <meta property="og:type" content="website" />
         <meta property="og:image:width" content="279" />
         <meta property="og:image:height" content="279" />
-        <meta property="og:image" content="https://prism.traction.one/og-image.jpg" />
+        <meta property="og:image" content="https://passaporte.xyz/og-image.jpg" />
 
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-        <link rel="shortcut icon" href="https://prism.traction.one/favicon.ico" />
-        <link rel="icon" type="image/x-icon" href="https://prism.traction.one/favicon.ico" />
+        <link rel="shortcut icon" href="https://passaporte.xyz/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="https://passaporte.xyz/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
         <link rel="manifest" href="/site.webmanifest" />
