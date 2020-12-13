@@ -2,9 +2,9 @@
 
 module.exports = {
     siteMetadata: {
-        title: "Prism Programming Language",
-        description: "Prism is a simple programming language aimed at beginners!",
-        siteUrl: "https://prism.traction.com",
+        title: "Passaporte",
+        description: "is Security NFT token for acess DAPPS",
+        siteUrl: "https://passporte.xyz",
     },
     plugins: [
         "gatsby-plugin-emotion",

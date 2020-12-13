@@ -1,8 +1,8 @@
 {
-  "name": "prism-website",
+  "name": "passporte-website",
   "version": "1.0.0",
   "private": true,
-  "author": "Sankarsan Kampa",
+  "author": "@codingsh <https://twitter.com/codingsh>",
   "license": "GPL-3.0",
   "scripts": {
     "build": "./node_modules/.bin/gatsby build",
